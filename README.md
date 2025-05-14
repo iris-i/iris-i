@@ -6,7 +6,7 @@ I architect frontend systems and lead engineering teams with clarity and care. W
 
 ## What I Do
 
-- Build thoughtful, performant interfaces with React, Next.js, Drupal, and modern frontend tooling  
+- Build thoughtful, accessible, and performant interfaces with React, Next.js, Drupal, and modern frontend tooling  
 - Lead teams with a focus on mentorship, technical vision, and clear communication  
 - Champion accessibility standards like WCAG and ARIA for truly inclusive products  
 - Guide long-term roadmap planning and support developer growth

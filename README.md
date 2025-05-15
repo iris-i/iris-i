@@ -1,8 +1,8 @@
 # Hi, I'm Iris 👋
 
-I'm a frontend engineer and team builder who cares deeply about accessible, scalable UI and creating environments where developers can thrive.
+I'm a software engineer and people manager who cares deeply about accessible, scalable UI and creating environments where developers can thrive. I architect frontend systems and lead engineering teams with clarity and care. 
 
-I architect frontend systems and lead engineering teams with clarity and care. When I'm not at work you can find me tweaking yet another headless CMS setup, sewing something fab yet comfy, or outdoors riding bikes with my endlessly energetic kids.
+When I'm not at work you can find me tweaking yet another headless CMS setup, sewing something fab & comfy, or outdoors riding bikes with my endlessly energetic kids.
 
 ## What I Do
 
@@ -23,6 +23,14 @@ I architect frontend systems and lead engineering teams with clarity and care. W
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/><br/>
       <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="90">
+      <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg">
+ <img alt="NextJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg">
+</picture>
+      <sub>NextJS</sub>
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL"/><br/>
@@ -54,7 +62,6 @@ I architect frontend systems and lead engineering teams with clarity and care. W
     </td>
   </tr>
 </table>
-
 
 
 
